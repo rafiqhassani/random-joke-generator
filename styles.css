@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 100px;
+}
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+#jokes {
+  font-size: 16px;
+  margin-top: 30px;
+  cursor: pointer;
+  height: 30px;
+  padding: 40px;
+  border-radius: 10px;
+}
