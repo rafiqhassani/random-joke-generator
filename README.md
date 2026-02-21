@@ -1,9 +1,11 @@
 <<<<<<< HEAD
+
 # Random Joke Generator
 
 A simple web app that displays random jokes at the click of a button. Perfect for a quick laugh!
 
-##Features
+## Features
+
 . Shown a random joke when you click a button.
 . Easy-to-use, responsive interface.
 . Can be extended to fetch jokes from ApIs.
@@ -23,7 +25,8 @@ You can see the live demo link of this project here: [Random Joke Generator](htt
 
 - HTML
 - CSS
-- JavaScript
-=======
+- # JavaScript
+
 # random-joke-generator
->>>>>>> 1d3bc8ab03c04a38db2a61e30fe84bfbeb3b1c27
+
+> > > > > > > 1d3bc8ab03c04a38db2a61e30fe84bfbeb3b1c27
